@@ -20,8 +20,11 @@ This README FILE entails the solution for task 3, TEAM BIG 5 of stack backend, t
 
 4. Wisdom Darlington Ndata
    - Slack ID: Wisdom Ndata
-   -Slack Email:wisdomndata@gmail.com
+   - Slack Email: wisdomndata@gmail.com
 
+5. Akinola John Olawole
+   - Slack ID: Akinola John Olawole
+   - Slack Email: johnolawole1@gmail.com
 
 
 # SOLUTION
