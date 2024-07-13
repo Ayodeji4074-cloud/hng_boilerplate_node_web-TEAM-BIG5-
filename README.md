@@ -14,6 +14,16 @@ This README FILE entails the solution for task 3, TEAM BIG 5 of stack backend, t
    - Slack ID: Adekolu Samuel Samixx
    - Slack Email: samueladekolu4@gmail.com
 
+3. Hadiza Mohammed
+   - Slack ID: Hardeezah
+   - Slack Email: mohammedhardeeza@gmail.com
+
+4. Wisdom Darlington Ndata
+   - Slack ID: Wisdom Ndata
+   -Slack Email:wisdomndata@gmail.com
+
+
+
 # SOLUTION
 
 1. The link below leads to the API DESIGN of this app using OPENAPI
