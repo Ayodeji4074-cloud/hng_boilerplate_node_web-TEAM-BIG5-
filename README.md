@@ -1,8 +1,29 @@
-# [App Name] Integration Documentation
+# [TEAM BIG 5] Integration Documentation
 
 ## Overview
 
 [Description]
+This README FILE entails the solution for task 3, TEAM BIG 5 of stack backend, the contributors includes:
+
+1. Adeniyi Emmanuel Ayodeji
+    slack id: Emmanuel Adeniyi
+    email: adeniyiemmanuel998@gmail.com
+
+
+
+
+
+
+# SOLUTION
+
+1. The link below leads to the API DESIGN of this app using OPENAPI 
+
+https://samixyasuke.github.io/hng11-team-big-5-group-task-openapi
+
+
+2. The link below leads to the ER DESIGN of our SCHEMA for this app
+
+https://drive.google.com/file/d/1S8AcnWFKI3x7q-s9z2dM711MhP1MeuI5/view?usp=drivesdk
 
 ## Folder Structure
 
