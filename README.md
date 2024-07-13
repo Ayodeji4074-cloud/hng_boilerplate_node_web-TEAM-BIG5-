@@ -6,20 +6,19 @@
 This README FILE entails the solution for task 3, TEAM BIG 5 of stack backend, the contributors includes:
 
 1. Adeniyi Emmanuel Ayodeji
-    slack id: Emmanuel Adeniyi
-    email: adeniyiemmanuel998@gmail.com
 
+   - Slack ID: Emmanuel Adeniyi
+   - Email: adeniyiemmanuel998@gmail.com
 
-
-
-
+2. Adekolu Samuel Oluwaseun
+   - Slack ID: Adekolu Samuel Samixx
+   - Slack Email: samueladekolu4@gmail.com
 
 # SOLUTION
 
-1. The link below leads to the API DESIGN of this app using OPENAPI 
+1. The link below leads to the API DESIGN of this app using OPENAPI
 
 https://samixyasuke.github.io/hng11-team-big-5-group-task-openapi
-
 
 2. The link below leads to the ER DESIGN of our SCHEMA for this app
 
